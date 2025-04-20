@@ -1,5 +1,5 @@
 ## Oiii eu sou a Vinicius Costa, Cursando Engenharia de Software!
- ## Sou um programador apaixonado por tecnologia e inovação. Tenho experiência no desenvolvimento de aplicações web e compuatdor, utilizando linguagens como JavaScript, Python, Java, Css e HTML. 
+ ## Sou um programador apaixonado por tecnologia e inovação. Tenho experiência no desenvolvimento de aplicações web e computador, utilizando linguagens como JavaScript, Python, Java, Css e HTML. 
 <div> 
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
